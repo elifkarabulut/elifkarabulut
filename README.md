@@ -1,2 +1,2 @@
-# elifkarabulut_website
+# elifkarabulut
 This is my new website.
